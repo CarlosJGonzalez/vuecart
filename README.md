@@ -1,5 +1,6 @@
 # fsv-front-end
-
+Basic Vue e-commerce. 
+The backend is a NodeJS app.
 ## Project setup
 ```
 npm install
